@@ -1,0 +1,152 @@
+body{
+  text-align: center;
+}
+/* Navbar */
+
+.navbar{
+  padding: 3% 7%;
+
+}
+
+.navbar-brand{
+  font-family: 'Oswald', sans-serif;
+  font-size: 2rem;
+}
+
+/* title */
+
+
+#title{
+  background-image: url(../images/sky.png);
+  height: 700px;
+}
+
+.big-heading{
+  text-align: center;
+  padding-top: 25%;
+font-family: poynter-oldstyle-display,serif;
+}
+.name{
+text-align: center;
+padding-top: 5%;
+}
+
+/* blog post */
+
+#blog{
+  background-color: #fff;
+
+}
+.blog-heading{
+  text-align: center;
+  padding-top: 3%;
+}
+
+.row{
+  padding: 5% 5%;
+}
+
+.heading{
+  padding: 4% 0;
+  font-family: poynter-oldstyle-display,serif;
+}
+
+
+.description{
+  color: #a6a6a6;
+   font-family: proxima-nova,sans-serif;
+   font-weight:300;
+}
+
+.img-productivity{
+  width: 50%;
+}
+
+
+  .img-healthy-food{
+    width:50%;
+
+  }
+
+  .img-positivity{
+    width:50%;
+
+  }
+
+  .read-more{
+    color: black;
+  }
+  .read-more-spacing{
+margin:0 0 30px;
+  }
+
+
+/* BOOKS RECOMMENDATION */
+
+#books {
+  background-image: url(../images/books.jpg);
+  height: 1400px;
+}
+
+.books-heading{
+  color: #fff;
+  text-align:center;
+  padding: 9% 5%;
+
+}
+
+
+
+.awaken-giant-within{
+width: 50%;
+
+    padding-left: 90px;
+    padding-right: 12px;
+
+
+}
+.the-5am-club{
+  width: 50%;
+
+      padding-left: 90px;
+      padding-right: 12px;
+
+}
+.rich-dad{
+  width: 50%;
+      padding-top: 5%;
+      padding-left: 90px;
+      padding-right: 12px;
+
+}
+.review {
+  color: #fff;
+  padding: 7% 0;
+}
+
+
+/* CONTACT */
+
+#contact{
+    background-color: #fff;
+    height: 200px;
+
+}
+#footer{
+  padding: 7%;
+}
+.footer-head{
+  text-align: center;
+  padding: 3% 0;
+  font-family: poynter-oldstyle-display,serif;
+}
+.icon{
+  margin: 30px;
+  color: black;
+  text-decoration: none;
+}
+
+.footer-p{
+  color: #000;
+  text-align: center;
+}
