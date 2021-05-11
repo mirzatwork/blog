@@ -141,6 +141,9 @@ width: 50%;
   padding: 3% 0;
   font-family: poynter-oldstyle-display,serif;
 }
+
+.footer-icons{
+  background-color: #fff;}
 .icon{
   margin: 30px;
   color: black;
