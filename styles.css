@@ -17,7 +17,7 @@ body{
 
 
 #title{
-  background-image: url(../images/sky.png);
+  background-image: url(sky.png);
   height: 700px;
 }
 
@@ -84,7 +84,7 @@ margin:0 0 30px;
 /* BOOKS RECOMMENDATION */
 
 #books {
-  background-image: url(../images/books.jpg);
+  background-image: url(books.jpg);
   height: 1400px;
 }
 
